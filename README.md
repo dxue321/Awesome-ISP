@@ -6,12 +6,17 @@ A collection of Image Signal Processing papers
 ## Contents
 
 - [Demosaicing](#Demosaicing)
-- [White-balancing](#White-balancing)
+- [White Balance](#White-balanc)
 - [Tone mapping](#Tone-mapping)
 - [Gamut mapping](#Gamut-mapping)
 - [Image retouching](#Image-retouching)
 - [End-to-end ISP](#End-to-end-ISP)
 
+
+ <!-- Template: **Title**\
+[[Paper]()]
+[[Project]()]
+[[Code]()]--> 
 
 ## Gamut mapping
 
@@ -31,6 +36,7 @@ A collection of Image Signal Processing papers
 ## Image retouching
 
 ### 3DLUT
+
 **Learning Image-adaptive 3D Lookup Tables for High Performance Photo Enhancement in Real-time (TPAMI 2020)** \
 [[Paper](https://arxiv.org/abs/2009.14468)]
 [[Code](https://github.com/HuiZeng/Image-Adaptive-3DLUT)]
@@ -65,6 +71,20 @@ A collection of Image Signal Processing papers
 
 
 ### Tone curving
+
+**CURL: Neural Curve Layers for Global Image Enhancement (ICPR 2020)**\
+[[Paper](https://arxiv.org/abs/1911.13175)]
+[[Code](https://github.com/sjmoran/CURL)]
+
+**Multi-Curve Translator for High-Resolution Photorealistic Image Translation (ECCV 2022)**\
+[[Paper](https://arxiv.org/abs/2203.07756)]
+
+
+**FlexiCurve: Flexible Piecewise Curves Estimation for Photo Retouching**\
+[[Paper](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/papers/Li_FlexiCurve_Flexible_Piecewise_Curves_Estimation_for_Photo_Retouching_CVPRW_2023_paper.pdf)]
+[[Project](https://li-chongyi.github.io/FlexiCurve/)]
+[[Code]()]
+
 **NamedCurves: Learned Image Enhancement via Color Naming (ECCV 2024)**\
 [[Paper](https://arxiv.org/pdf/2407.09892)]
 [[Project](https://namedcurves.github.io/)]
@@ -73,6 +93,9 @@ A collection of Image Signal Processing papers
 
 ### Filter
 
+**DeepLPF: Deep Local Parametric Filters for Image Enhancement**\
+[[Paper](https://arxiv.org/pdf/2003.13985)]
+[[Code](https://github.com/sjmoran/DeepLPF)]
 
 ## End-to-end ISP
 
