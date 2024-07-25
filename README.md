@@ -21,14 +21,14 @@ A collection of Image Signal Processing papers.
 
 ## Review & Tutorial
 
-- ⭐ **Mobile Computational Photography: A Tour, *arXiv 2021***\
+- ⭐⭐⭐ **Mobile Computational Photography: A Tour, *arXiv 2021***\
 [[Paper](https://arxiv.org/abs/2102.09000)]
 
-- ⭐ **Understanding the in-camera rendering pipeline & the role of AI and deep learning, *ICCV 2023 Tutorial***\
+- ⭐⭐⭐ **Understanding the in-camera rendering pipeline & the role of AI and deep learning, *ICCV 2023 Tutorial***\
 [[Slides](https://arxiv.org/abs/2102.09000](https://www.eecs.yorku.ca/~mbrown/ICCV2023_For_Print.pdf))]
 
-- ⭐ **Camera Processing Pipeline, *lecture***\
-[[Slides](https://web.stanford.edu/class/cs231m/lectures/lecture-11-camera-isp.pdf))]
+- **Camera Processing Pipeline, *lecture***\
+[[Slides](https://web.stanford.edu/class/cs231m/lectures/lecture-11-camera-isp.pdf)]
 
 
 ## Gamut mapping
