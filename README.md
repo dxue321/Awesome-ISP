@@ -1,10 +1,11 @@
 <!-- The superlink doesn't support uppercases -->
 # Awesome Image Signal Processing
 
-A collection of Image Signal Processing papers.
+A collection of Image Signal Processing (ISP) papers.
 
 ## Contents
 
+- [Review & Tutorial](#Review-&-Tutorial)
 - [Demosaicing](#Demosaicing)
 - [White Balance](#White-balanc)
 - [Tone mapping](#Tone-mapping)
@@ -127,28 +128,28 @@ A collection of Image Signal Processing papers.
 [[Paper](https://arxiv.org/pdf/2003.13985)]
 [[Code](https://github.com/sjmoran/DeepLPF)]
 
-## Raw image reconstruction
 
-- **Spatially Aware Metadata for Raw Reconstruction, *WACV 2021***\
-[[Paper](https://openaccess.thecvf.com/content/WACV2021/papers/Punnappurath_Spatially_Aware_Metadata_for_Raw_Reconstruction_WACV_2021_paper.pdf)]
+## Demosaicing
 
-- **Learning sRGB-to-Raw-RGB De-rendering with Content-Aware Metadata, *CVPR 2022***\
-[[Paper](https://arxiv.org/abs/2206.01813v1)]
-[[Code](https://github.com/SamsungLabs/content-aware-metadata)]
+## White Balance
 
-- **Raw Image Reconstruction with Learned Compact Metadata, *CVPR 2023***\
-[[Paper](https://arxiv.org/abs/2302.12995)]
-[[Code](https://github.com/wyf0912/R2LCM)]
 
-- **Metadata-Based RAW Reconstruction via Implicit Neural Functions, *CVPR 2023***\
-[[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_Metadata-Based_RAW_Reconstruction_via_Implicit_Neural_Functions_CVPR_2023_paper.pdf)]
 
- <!-- Template: - **Title, *TPAMI 2020***\
-[[Paper]()]
-[[Project]()]
-[[Code]()]--> 
 
 ## End-to-end ISP
+
+- **Replacing Mobile Camera ISP with a Single Deep Learning Model, *CVPR 2020***\
+[[Paper](https://arxiv.org/abs/2002.05509)]
+[[Code](https://github.com/aiff22/pynet)]
+
+- **Invertible Image Signal Processing, *CVPR 2021***\
+[[Paper](https://arxiv.org/abs/2103.15061)]
+[[Project](https://light.princeton.edu/publication/hdr_isp_opt/)]
+[[Code](https://github.com/yzxing87/Invertible-ISP)]
+
+- **End-to-end High Dynamic Range Camera Pipeline Optimization, *CVPR 2021***\
+[[Paper](https://light.cs.princeton.edu/wp-content/uploads/2021/04/HDR_ISP_Opt.pdf)]
+
 
 - **CameraNet: A Two-Stage Framework for Effective Camera ISP Learning, *TIP 2021***\
 [[Paper](https://arxiv.org/abs/1908.01481)]
@@ -157,6 +158,7 @@ A collection of Image Signal Processing papers.
 - **AWNet: Attentive Wavelet Network for Image ISP, *ECCVW 2020***\
 [[Paper](https://arxiv.org/abs/2008.09228)]
 [[Code](https://github.com/Charlie0215/AWNet-Attentive-Wavelet-Network-for-Image-ISP)]
+
 
 - **PyNET-CA: Enhanced PyNET with Channel Attention for End-to-End Mobile Image Signal Processing, *ECCV 2020 AIM workshop***\
 [[Paper](https://arxiv.org/abs/2104.02895)]
@@ -196,11 +198,28 @@ A collection of Image Signal Processing papers.
 [[Paper](https://arxiv.org/pdf/2401.03220)]
 [[Code](https://github.com/vccimaging/MetaISP)]
 
+## Raw image reconstruction
+
+- **Spatially Aware Metadata for Raw Reconstruction, *WACV 2021***\
+[[Paper](https://openaccess.thecvf.com/content/WACV2021/papers/Punnappurath_Spatially_Aware_Metadata_for_Raw_Reconstruction_WACV_2021_paper.pdf)]
+
+- **Learning sRGB-to-Raw-RGB De-rendering with Content-Aware Metadata, *CVPR 2022***\
+[[Paper](https://arxiv.org/abs/2206.01813v1)]
+[[Code](https://github.com/SamsungLabs/content-aware-metadata)]
+
+- **Raw Image Reconstruction with Learned Compact Metadata, *CVPR 2023***\
+[[Paper](https://arxiv.org/abs/2302.12995)]
+[[Code](https://github.com/wyf0912/R2LCM)]
+
+- **Metadata-Based RAW Reconstruction via Implicit Neural Functions, *CVPR 2023***\
+[[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_Metadata-Based_RAW_Reconstruction_via_Implicit_Neural_Functions_CVPR_2023_paper.pdf)]
+
+ <!-- Template: - **Title, *TPAMI 2020***\
+[[Paper]()]
+[[Project]()]
+[[Code]()]--> 
 
 
-## Demosaicing
-
-## White Balance
 
 
 
